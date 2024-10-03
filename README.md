@@ -75,7 +75,7 @@ The MCQ Quiz Maker has been implemented using Python, and the data is organized 
 
 ### Teacher HomePage
 
-![alt text](Screenshots/image.png)
+![alt text](Screenshots/teacher.png)
 
 ### Student HomePage
 
