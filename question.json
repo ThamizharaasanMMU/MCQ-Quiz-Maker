@@ -1,0 +1,140 @@
+{
+    "question_det": [
+        {
+            "QuizID": "610354",
+            "QuizNo": "1",
+            "Question": "x + 7 = 10. Find the value of x",
+            "Answers": [
+                "x = 5",
+                "x = 3",
+                "x = 2",
+                "x = 0"
+            ],
+            "Correct": [
+                false,
+                true,
+                false,
+                false
+            ]
+        },
+        {
+            "QuizID": "610354",
+            "QuizNo": "2",
+            "Question": "Who invented Integration?",
+            "Answers": [
+                "Leibniz",
+                "Pythogoras",
+                "Archimedes",
+                "Isaac Newton"
+            ],
+            "Correct": [
+                true,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "QuizID": "610354",
+            "QuizNo": "3",
+            "Question": "What is the value 0! ?",
+            "Answers": [
+                "3",
+                "1",
+                "0",
+                "Infinity"
+            ],
+            "Correct": [
+                false,
+                true,
+                false,
+                false
+            ]
+        },
+        {
+            "QuizID": "662523",
+            "QuizNo": "1",
+            "Question": "Which is the noble gas?",
+            "Answers": [
+                "Hidrogen",
+                "Helium",
+                "Chlorine",
+                "Oxygen"
+            ],
+            "Correct": [
+                false,
+                true,
+                false,
+                false
+            ]
+        },
+        {
+            "QuizID": "612011",
+            "QuizNo": "1",
+            "Question": "Who is the father of Physics?",
+            "Answers": [
+                "Isaac Newton",
+                "Albert Einstein",
+                "Stephen Hawking",
+                "Charles Darwin"
+            ],
+            "Correct": [
+                true,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "QuizID": "654019",
+            "QuizNo": "1",
+            "Question": "Parkinson disease occurs when the hormone q decreases. What is q?",
+            "Answers": [
+                "Dopamine",
+                "Serotonin",
+                "Testrogen",
+                "Estrogen"
+            ],
+            "Correct": [
+                true,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "QuizID": "612011",
+            "QuizNo": "2",
+            "Question": "Speed is a vector quantity?",
+            "Answers": [
+                "Yes",
+                "No",
+                " I don't know",
+                "Maybe"
+            ],
+            "Correct": [
+                false,
+                true,
+                false,
+                false
+            ]
+        },
+        {
+            "QuizID": "612011",
+            "QuizNo": "3",
+            "Question": "Who discovered the gravitional formula?",
+            "Answers": [
+                "Albert Einstein",
+                "Isaac Newton",
+                "Charles Darwin",
+                "Thamizharaasan"
+            ],
+            "Correct": [
+                false,
+                true,
+                false,
+                false
+            ]
+        }
+    ]
+}

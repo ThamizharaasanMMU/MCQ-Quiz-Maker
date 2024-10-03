@@ -1,0 +1,66 @@
+{
+    "students_det": [
+        {
+            "name": "JAGANATHA RAO",
+            "age": "18",
+            "ID": "12011",
+            "password": "87654321",
+            "quizzes": [
+                "611086",
+                "603769",
+                "612011"
+            ]
+        },
+        {
+            "name": "BAYMAX",
+            "age": "23",
+            "ID": "17144",
+            "password": "dfgngnj",
+            "quizzes": [
+                "689861",
+                "612011"
+            ]
+        },
+        {
+            "name": "NEYMAR",
+            "age": "43",
+            "ID": "17946",
+            "password": "neymbrazil",
+            "quizzes": [
+                "612572",
+                "603769",
+                "638249"
+            ]
+        },
+        {
+            "name": "ISAAC NEWTON",
+            "age": "25",
+            "ID": "16923",
+            "password": "gravity98",
+            "quizzes": [
+                "610354",
+                "603769",
+                "612572"
+            ]
+        },
+        {
+            "name": "DHARVIN KALIDASEN",
+            "age": "19",
+            "ID": "19434",
+            "password": "dharvinbarca",
+            "quizzes": [
+                "662523",
+                "638249"
+            ]
+        },
+        {
+            "name": "PRANJIVVAN",
+            "age": "20",
+            "ID": "11794",
+            "password": "jivvan27",
+            "quizzes": [
+                "612011"
+            ]
+        }
+    ]
+}

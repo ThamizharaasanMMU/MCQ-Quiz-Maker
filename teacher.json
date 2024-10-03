@@ -1,0 +1,65 @@
+{
+    "teachers_det": [
+        {
+            "name": "MEGAT FAHMI",
+            "age": "25",
+            "ID": "25937",
+            "password": "fkfbkd",
+            "quizzes": [
+                "673482",
+                "612572",
+                "634442"
+            ]
+        },
+        {
+            "name": "BAN KAR WENG",
+            "age": "33",
+            "ID": "29680",
+            "password": "william33",
+            "quizzes": [
+                "638249",
+                "612011"
+            ]
+        },
+        {
+            "name": "SHARAF",
+            "age": "45",
+            "ID": "20883",
+            "password": "qwerty",
+            "quizzes": [
+                "612011",
+                "610354",
+                "662523",
+                "689861",
+                "654019"
+            ]
+        },
+        {
+            "name": "SHARIFAH",
+            "age": "45",
+            "ID": "21408",
+            "password": "cikgu",
+            "quizzes": [
+                "644361",
+                "611086"
+            ]
+        },
+        {
+            "name": "ROHAYA",
+            "age": "45",
+            "ID": "24506",
+            "password": "semesti",
+            "quizzes": [
+                "689861"
+            ]
+        }
+    ],
+    "admin_det": [
+        {
+            "name": "THAMIZHARAASAN",
+            "age": 19,
+            "ID": "20129",
+            "password": "thamizh020626"
+        }
+    ]
+}

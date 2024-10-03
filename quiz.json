@@ -1,0 +1,110 @@
+{
+    "quiz_det": [
+        {
+            "Quizname": "QUANTUM PHYSICS",
+            "topic": "GRAVITATIONAL THEORY",
+            "QuizID": "612011",
+            "status": "PUBLISHED"
+        },
+        {
+            "Quizname": "PROGRAMMING FUNDAMENTALS",
+            "topic": "C++",
+            "QuizID": "634442",
+            "status": "DRAFT"
+        },
+        {
+            "Quizname": "MATHEMATICS",
+            "topic": "LOGARITHMIC FUNCTIONS",
+            "QuizID": "610354",
+            "status": "PUBLISHED"
+        },
+        {
+            "Quizname": "NEUROLOGY",
+            "topic": "BRAIN FUNCTIONS",
+            "QuizID": "603769",
+            "status": "PUBLISHED"
+        },
+        {
+            "Quizname": "ENGLISH",
+            "topic": "LITERATURE",
+            "QuizID": "644361",
+            "status": "DRAFT"
+        },
+        {
+            "Quizname": "ADDITIONAL MATHEMATICS",
+            "topic": "INTEGRATION",
+            "QuizID": "611086",
+            "status": "PUBLISHED"
+        },
+        {
+            "Quizname": "PROGRAMMING",
+            "topic": "PYTHON",
+            "QuizID": "619093",
+            "status": "DRAFT"
+        },
+        {
+            "Quizname": "PYTHON",
+            "topic": "PROGRAMMING",
+            "QuizID": "638249",
+            "status": "PUBLISHED"
+        },
+        {
+            "Quizname": "PROGRAM2",
+            "topic": "JAVA",
+            "QuizID": "601484",
+            "status": "DRAFT"
+        },
+        {
+            "Quizname": "PROGRAM3",
+            "topic": "KOTLIN",
+            "QuizID": "673482",
+            "status": "DRAFT"
+        },
+        {
+            "Quizname": "PROGRAMMING",
+            "topic": "LANGUAGES",
+            "QuizID": "612572",
+            "status": "PUBLISHED"
+        },
+        {
+            "Quizname": "ORGANIC CHEMISTRY",
+            "topic": "SALTS",
+            "QuizID": "662523",
+            "status": "PUBLISHED"
+        },
+        {
+            "Quizname": "CALCULUS",
+            "topic": "INTEGRATION",
+            "QuizID": "689861",
+            "status": "PUBLISHED"
+        },
+        {
+            "Quizname": "PSYCHOLOGY",
+            "topic": "BRAINS",
+            "QuizID": "654019",
+            "status": "DRAFT"
+        },
+        {
+            "Quizname": "BIOLOGY 2.0",
+            "topic": "BODY PARTS",
+            "QuizID": "698752",
+            "status": "DRAFT"
+        }
+    ],
+    "attempted_det": [
+        {
+            "Quizname": "DIGITAL SYSTEM",
+            "topic": "BOOLEAN EXPRESSIONS",
+            "QuizID": "620129",
+            "totalquestion": 15,
+            "correctanswer": 13
+        },
+        {
+            "Quizname": "PRINCIPLE OF PHYSICS",
+            "topic": "LIGHT",
+            "QuizID": "620128",
+            "totalquestion": 20,
+            "correctanswer": 16
+        }
+    ]
+}
